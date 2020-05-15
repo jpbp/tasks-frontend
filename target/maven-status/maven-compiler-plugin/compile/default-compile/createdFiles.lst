@@ -1,0 +1,4 @@
+br\ce\wcaquino\tasksfrontend\TasksFrontendApplication.class
+br\ce\wcaquino\tasksfrontend\model\Todo.class
+br\ce\wcaquino\tasksfrontend\controller\TasksController.class
+br\ce\wcaquino\tasksfrontend\ServletInitializer.class
